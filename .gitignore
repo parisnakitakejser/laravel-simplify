@@ -1,0 +1,5 @@
+/config.php
+/packages
+/node_modules
+/resources/blade/cache/*
+.DS_Store

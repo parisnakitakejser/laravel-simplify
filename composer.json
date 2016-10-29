@@ -1,0 +1,12 @@
+{
+	"require": {
+		"philo/laravel-blade": "3.*",
+		"illuminate/database": "5.0.*@dev",
+		"illuminate/routing": "5.0.*@dev",
+		"illuminate/events": "5.0.*@dev",
+		"swiftmailer/swiftmailer": "@stable"
+	},
+	"config" : {
+		"vendor-dir" : "packages"
+	}
+}
